@@ -4077,3 +4077,13 @@ https://github.com/ricardojoserf/NativeDump/blob/01d8cd17f31f51f5955a38e85cd3c83
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Sidecar%20Injection/
 https://web.archive.org/web/20210701042336/https://github.com/afwu/PrintNightmare
+https://www.tarasco.org/security/pwdump_7/
+https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/
+https://www.virustotal.com/gui/file/f9710b0ba4de5fa0e7ec27da462d4d2fc6838eba83a19f23f6617a466bbad457
+https://research.checkpoint.com/2025/stealth-falcon-zero-day/
+https://pentestlab.blog/2022/03/21/unconstrained-delegation/
+http://www.hexacorn.com/blog/2013/01/19/beyond-good-ol-run-key-part-3/
+https://man.freebsd.org/cgi/man.cgi?pwd_mkdb
+https://gtfobins.github.io/gtfobins/find/#shell
+https://x.com/Threatlabz/status/1879956781360976155
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
